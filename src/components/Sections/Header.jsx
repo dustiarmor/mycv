@@ -12,7 +12,7 @@ export default function Header() {
     <Wrapper id="home" className="container flexSpaceCenter">
       <LeftSide className="flexCenter">
         <div>
-          <h1 className="extraBold font60">我是陈凯</h1>
+          <h1 className="extraBold font60">我是Leo</h1>
           <HeaderP className="font13 semiBold">
             一个媒体行业和互联网行业的产品经理
           </HeaderP>
